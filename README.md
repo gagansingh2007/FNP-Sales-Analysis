@@ -80,7 +80,7 @@ The analysis answers the following key business questions:
 
 ---
 
-## 🖼 Dashboard Screenshot
+## 🖼 Dashboard Preview
 
 <img width="1860" height="837" alt="FNP Sales Analysis" src="https://github.com/user-attachments/assets/5aa5d88d-df45-44ff-b05e-484c161a093e" />
 
